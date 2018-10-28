@@ -1,5 +1,7 @@
 .gradle
 /build/
+terraform/key
+
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
