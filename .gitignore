@@ -1,6 +1,7 @@
 .gradle
 /build/
 terraform/key
+terraform/.terraform
 
 !gradle/wrapper/gradle-wrapper.jar
 
